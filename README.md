@@ -1,88 +1,71 @@
-<h1 align="center">Hi 👋, I'm Chaitanya Bagul</h1>
-<h3 align="center">Aspiring Data Analyst | Power BI Enthusiast | Python Learner</h3>
+<div align="center">
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+```
 
 ---
 
-## 🚀 About Me
-- 🎓 Graduate with interest in Data Analytics & Machine Learning
-- 📊 Skilled in Power BI, SQL, Excel & Python
-- 🌱 Currently learning Machine Learning & Advanced Analytics
-- 💡 Passionate about solving business problems using data
-- 📫 Reach me at: yourmail@gmail.com
+# 📌 How To Setup
+
+## 1️⃣ Create Special Repository
+
+Repository name must be:
+
+```txt
+YOUR_USERNAME
+```
+
+Example:
+
+```txt
+chaitanyabagul
+```
 
 ---
 
-## 🛠️ Tech Stack
+## 2️⃣ Add README.md
 
-### Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
-</p>
-
-### Data Analytics Tools
-- Power BI
-- Excel
-- SQL
-- Python
-- Pandas
-- NumPy
-- Matplotlib
+Paste this entire code inside README.md
 
 ---
 
-## 📌 Featured Projects
+## 3️⃣ Replace These Values
 
-### 📊 Supply Chain Performance Analytics
-- Built an end-to-end analytics dashboard using Power BI
-- Performed KPI analysis for delivery performance & operational efficiency
-- Used predictive analytics for demand forecasting
-
-### 🤖 Machine Learning Projects
-- Customer Churn Prediction
-- Sales Forecasting
-- Data Cleaning & EDA Projects
-
-### 📈 Power BI Dashboards
-- Sales Dashboard
-- HR Analytics Dashboard
-- Financial Performance Dashboard
+```txt
+YOUR_USERNAME
+YOUR_LINKEDIN
+YOUR_EMAIL
+```
 
 ---
 
-## 📊 GitHub Stats
+# 🎨 Custom Banner Ideas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
+## 🔥 Dark Professional Theme
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
-</a>
-
-<a href="https://github.com/YOUR_USERNAME" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
-</a>
-</p>
-
----
-
-## 🔥 Current Focus
-- Advanced Power BI Dashboards
-- Machine Learning Projects
-- Business Analytics
-- SQL Optimization
+### Style Keywords
+- Dark Gradient
+- AI/ML Theme
 - Data Visualization
+- Modern Glassmorphism
+- Neon Blue Accents
+
+### Text Example
+
+```txt
+Chaitanya Bagul
+Data Analyst | AI/ML Engineer | Power BI Developer
+```
 
 ---
 
-## ✨ Quote
-> “Turning Data Into Insights & Insights Into Decisions.”
+# 🌟 Recommended Repositories
+
+```txt
+supply-chain-analytics
+powerbi-dashboard
+machine-learning-projects
+data-analytics-portfolio
+python-projects
+sql-practice
+resume
+```
